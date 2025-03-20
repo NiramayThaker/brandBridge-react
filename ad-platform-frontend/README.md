@@ -1,12 +1,34 @@
-# React + Vite
+# AdConnect - Advertisement Platform
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+AdConnect is a web platform that connects advertisement brands with people, allowing them to browse and apply for ad campaigns. The project aims to **generate ad revenue** by providing a seamless way for brands to reach potential advertisers.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🚀 Features
 
-## Expanding the ESLint configuration
+### 🔹 General Features
+- 📌 **Home Page** – Simple UI with key information about the platform.
+- 🔍 **Search Ads** – Users can browse various ad campaigns by category.
+- 📝 **Apply for Ads** – Individuals can apply to run advertisements.
+- 📊 **Dashboard** – Manage applied ads and view campaign statistics.
+- 🔐 **Authentication** – Sign up & login functionality (future enhancement).
 
-If you are developing a production application, we recommend using TypeScript and enable type-aware lint rules. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+### 🔹 UI Enhancements
+- ✅ **Sticky Navbar** with hover animations.
+- ✅ **Beautiful Browse Ads Section** with a **responsive grid** layout.
+- ✅ **Smooth Page Transitions** for better user experience.
+- ✅ **Hover Effects** on ads and buttons.
+
+---
+
+## 🛠️ Tech Stack
+
+- **Frontend**: React.js (Vite)
+- **Styling**: Tailwind CSS
+- **Routing**: React Router
+- **State Management**: React Hooks
+
+---
+
+## 📂 Folder Structure
+
