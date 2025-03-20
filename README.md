@@ -28,7 +28,3 @@ AdConnect is a web platform that connects advertisement brands with people, allo
 - **Routing**: React Router
 - **State Management**: React Hooks
 
----
-
-## 📂 Folder Structure
-
